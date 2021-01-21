@@ -15,7 +15,7 @@ Flex **Discord.js** v12 ve **node.js** kullanılarak oluşturulmuş discord sunu
 [Bu adrese](https://discord.com/developers/applications) giderek yeni bir discord botu oluşturunuz.<br>
 Botu oluşturduktan sonra config.json'a gidip **"TOKEN"** kısmına yapıştırınız.
 
-**Botun Stabil Çalışması İçin Gereksinimleri kurmak**
+**Botun Stabil Çalışması İçin Gereksinimleri kurmak**<br>
 Node.js https://nodejs.org/en/download/<br>
 Proje oluşturmak için `npm init -y`<br>
 Discord.js kurmak `npm install discord.js`<br>
@@ -26,6 +26,9 @@ Fs `npm i fs`<br>
 moment `npm i moment`<br>
 moment-duration-format `npm i moment-duration-format`<br>
 path `npm i path`
+
+## Botu Çalıştırmak
+`node index.js`
 
 ----
 ## Soru ve öneriler

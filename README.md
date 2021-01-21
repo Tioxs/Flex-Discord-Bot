@@ -7,7 +7,7 @@
 </p>
 
 ## FLEX
-Flex **Discord.js** v12 ve **node.js** kullanılarak oluşturulmuş discord sunucu yönetim ve eğlence botudur.<br>
+Flex **Discord.js** v12 ve **node.js** kullanılarak oluşturulmuş discord sunucu yönetim ve eğlence botudur.<br><br>
 Flex'i Sunucunuza Ekleyin!<br>
 [Buradan botu sunucunuza ekleyebilirsiniz](https://discord.com/oauth2/authorize?client_id=800653215876120586&scope=bot&permissions=32)
 

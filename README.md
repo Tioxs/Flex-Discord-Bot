@@ -6,7 +6,6 @@
     Flex fonksiyonel bir discord sunucu yönetme ve eğlence botudr.
 </p>
 ----
-
 ## FLEX
 Flex **Discord.js** v12 ve **node.js** kullanılarak oluşturulmuş discord sunucu yönetim ve eğlence botudur.<br>
 

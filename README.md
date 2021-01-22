@@ -19,15 +19,9 @@ Botu oluşturduktan sonra config.json'a gidip **"TOKEN"** kısmına yapıştır�
 
 **Botun Stabil Çalışması İçin Gereksinimleri kurmak**<br>
 Node.js https://nodejs.org/en/download/<br>
-Proje oluşturmak için `npm init -y`<br>
-Discord.js kurmak `npm install discord.js`<br>
-Ytdl-core `npm i ytdl-core`<br>
-@discordjs/opus `npm i @discordjs/opus`<br>
-ffmpeg-static `npm i ffmpeg-static`<br>
-Fs `npm i fs`<br>
-moment `npm i moment`<br>
-moment-duration-format `npm i moment-duration-format`<br>
-path `npm i path`
+```sh
+npm i
+```
 
 ## Botu Çalıştırmak
 `node index.js`
